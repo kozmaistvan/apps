@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "name": "Football Memory",
+  "description": "Look it up the pair of team logos under fewer clicks. You can choose from 4 countries. The 4 countries include 185 team logos.",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/icons/icon16x16.png",
+    "48": "/icons/icon48x48.png",
+    "60": "/icons/icon60x60.png",
+    "128": "/icons/icon128x128.png"
+  },
+  "developer": {
+    "name": "Kozma István",
+    "url": "http://github.com/uni-firefoxos"
+  },
+  "type": "privileged",
+  "permissions": {
+    "device-storage:sdcard":{ "description": "Required for save options and statistics", "access": "readwrite" }
+  }
+}
