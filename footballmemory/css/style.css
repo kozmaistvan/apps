@@ -12,8 +12,8 @@ figure {
 .container {
     width: 90px;
     height: 91px;
-    /*position: relative;*/
-    /*margin: 0 auto;*/
+    position: relative;
+    margin: 0 auto;
     border: 1px solid #CCC;
     -webkit-perspective: 800px;
     -moz-perspective: 800px;
